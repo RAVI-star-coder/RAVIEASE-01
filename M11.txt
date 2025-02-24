@@ -1,0 +1,9 @@
+#######################################################################
+
+Welcome Again! Hope by now you have mastered GIT And GITHUB and are now
+ready to embark upon a fantastic journey of DevOps And AWS. Do not get
+disheartened if at any place you are not able to get through your 
+practise and feel like giving up. Do not give up and remember the three
+P's , Patience, Perseverence and Persistence.  
+
+#######################################################################
