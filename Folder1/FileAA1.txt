@@ -2,6 +2,7 @@
 ####################################################################################
 
 Hi Friends! Hope you are finding working with Linux + DevOps really exciting. Bravo.
+This is how you should proceed to complete your course practicals plus theories.   
 
 ####################################################################################
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
